@@ -304,16 +304,28 @@ if (currentMenu == 0x40) {
         displayWord("HELLO");
       }
       if (10 < wordChange && wordChange < 20) {
-        displayWord("REDDIT");
+        displayWord("REDDIT!");
       }
-      if (20 < wordChange && wordChange < 30) {
-        displayWord("I");
+      if (20 < wordChange && wordChange < 25) {
+        displayWord("THIS");
       }
-      if (30 < wordChange && wordChange < 40) {
-        displayWord("HaD :)");
+      if (25 < wordChange && wordChange < 30) {
+        displayWord("IS");
+      }
+      if (30 < wordChange && wordChange < 35) {
+        displayWord("MY");
+      }
+      if (35 < wordChange && wordChange < 45) {
+        displayWord("POV");
+      }
+      if (45 < wordChange && wordChange < 55) {
+        displayWord("FIDGET");
+      }
+      if (55 < wordChange && wordChange < 70) {
+        displayWord("SPINNER");
       }
       wordChange++;
-      if (wordChange > 40) {
+      if (wordChange > 70) {
         wordChange = 0;
       }
     }
