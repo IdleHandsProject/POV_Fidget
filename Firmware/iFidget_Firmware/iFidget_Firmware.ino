@@ -324,8 +324,18 @@ if (currentMenu == 0x40) {
       if (55 < wordChange && wordChange < 70) {
         displayWord("SPINNER");
       }
+      if (70 < wordChange && wordChange < 75) {
+        displayWord("   ");
+      }
+      if (75 < wordChange && wordChange < 80) {
+        displayWord("SEND");
+      }
+      if (80 < wordChange && wordChange < 85) {
+        displayWord("NUDES");
+      }
+      
       wordChange++;
-      if (wordChange > 70) {
+      if (wordChange > 85) {
         wordChange = 0;
       }
     }
