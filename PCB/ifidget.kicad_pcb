@@ -3,10 +3,10 @@
   (general
     (links 151)
     (no_connects 5)
-    (area 99.956934 34.170177 172.012498 99.995177)
+    (area 82.232027 24.3 198.250001 141.234994)
     (thickness 1.6)
     (drawings 33)
-    (tracks 536)
+    (tracks 537)
     (zones 0)
     (modules 68)
     (nets 76)
@@ -2572,6 +2572,7 @@
   (gr_line (start 100 100) (end 100 65.6) (layer Dwgs.User) (width 0.1))
   (gr_line (start 100 100) (end 198.2 100) (layer Dwgs.User) (width 0.1))
 
+  (segment (start 109.406078 82) (end 109.3 80.8) (width 0.2) (layer F.Cu) (net 1))
   (segment (start 134.7 56.75) (end 131.6 52.45) (width 0.2) (layer B.Cu) (net 1))
   (via (at 162.9 79.95) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1) (tstamp 5925B83D))
   (via (at 162.1 93.7) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1) (tstamp 5925B839))
