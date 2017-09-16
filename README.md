@@ -6,5 +6,7 @@ A lot of the info is in the video, check it out!
 
 
 Some more useful links:
+
 https://hackaday.io/project/25538-pov-fidget-spinner
+
 https://www.instructables.com/id/POV-Arduino-Fidget-Spinner/
